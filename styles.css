@@ -1,0 +1,59 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 60%
+}
+
+h1 {
+    color:aquamarine;
+    background-color: blue;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 36px;
+    font-weight:400;
+    text-align: center;
+}
+
+h2 {
+    color: chartreuse;
+    background-color: chocolate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+}
+
+h3 {
+    color: cornsilk;
+    background-color: coral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+h4 {
+    color: lightgray;
+    background-color: beige;
+    font-family: cursive;
+    font-size: 10px;
+    text-align: right;
+}
+
+p {
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.list {
+    color: burlywood;
+    background-color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-align: left;
+}
+
+.menu {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
